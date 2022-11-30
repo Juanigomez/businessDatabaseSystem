@@ -1,22 +1,8 @@
 # IMPORTS -->
 
-import itertools
-from random import randint
-from statistics import mean
-
-# Python to pdf (reportLab) ...
-
-from reportlab.lib.pagesizes import A4
-from reportlab.pdfgen import canvas
-from reportlab.lib.units import inch
-
 # Python to Google Spreadsheets ...
 
 import gspread
-
-# Import date ...
-
-from datetime import date
 
 # Import streamlit (webpage) ...
 
